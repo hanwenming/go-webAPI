@@ -1,10 +1,10 @@
 package main
 
 import (
-	"boxProject/boxProject/service"
-	"boxProject/tools"
 	"fmt"
 	restful "github.com/emicklei/go-restful/v3"
+	"go-webAPI/boxProject/service"
+	"go-webAPI/tools"
 	"log"
 	"net/http"
 	"os"
